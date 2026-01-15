@@ -60,7 +60,6 @@ php artisan serve
 - Working with Git and GitHub
 
 ## Screenshots
-<img width="1919" height="1072" alt="Screenshot 2026-01-15 214516" src="https://github.com/user-attachments/assets/c7cbb6c2-1c65-42be-a579-72fb91a20e89" />
 <img width="1911" height="1026" alt="Screenshot 2026-01-15 222856" src="https://github.com/user-attachments/assets/ab5aee3a-2c66-4db0-b47d-1fd6dc2e5a03" />
 <img width="1919" height="1032" alt="Screenshot 2026-01-15 222903" src="https://github.com/user-attachments/assets/02040de5-42be-45be-9e3a-3f94f9ea4998" />
 <img width="1919" height="1030" alt="Screenshot 2026-01-15 222909" src="https://github.com/user-attachments/assets/79acbed2-e3ac-4b78-9e0c-2854a9fb4a44" />
