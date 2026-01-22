@@ -60,10 +60,8 @@ php artisan serve
 - Working with Git and GitHub
 
 ## Screenshots
-<img width="1911" height="1026" alt="Screenshot 2026-01-15 222856" src="https://github.com/user-attachments/assets/ab5aee3a-2c66-4db0-b47d-1fd6dc2e5a03" />
-<img width="1919" height="1032" alt="Screenshot 2026-01-15 222903" src="https://github.com/user-attachments/assets/02040de5-42be-45be-9e3a-3f94f9ea4998" />
-<img width="1919" height="1030" alt="Screenshot 2026-01-15 222909" src="https://github.com/user-attachments/assets/79acbed2-e3ac-4b78-9e0c-2854a9fb4a44" />
-<img width="1912" height="1029" alt="Screenshot 2026-01-15 222919" src="https://github.com/user-attachments/assets/9a051e9f-3c09-4f21-bb28-c1fff859765c" />
+<img width="1914" height="932" alt="Screenshot 2026-01-22 204309" src="https://github.com/user-attachments/assets/1838072f-3d77-4d15-a360-54bb21e6711a" />
+
 
 
 ## License
