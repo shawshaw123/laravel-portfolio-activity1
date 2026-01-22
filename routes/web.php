@@ -25,9 +25,9 @@ Route::get('/about', function () {
 
 Route::get('/projects', function () {
     $projects = [
-        ['title' => 'Project 1', 'description' => 'My first web project'],
-        ['title' => 'Project 2', 'description' => 'E-commerce website'],
-        ['title' => 'Project 3', 'description' => 'Mobile app design'],
+        ['title' => 'Project 1', 'description' => 'My first web project', 'image' => 'images/project1.jpg'],
+        ['title' => 'Project 2', 'description' => 'E-commerce website', 'image' => 'images/project2.jpg'],
+        ['title' => 'Project 3', 'description' => 'Mobile app design', 'image' => 'images/project3.jpg'],
     ];
     return view('projects', ['projects' => $projects]);
 })->name('projects');
